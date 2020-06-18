@@ -45,7 +45,7 @@ The data set corresponding to this example is available in the folders ‘ch1_VA
 
 2. Create new folders in the same directory called ‘results’ and ‘masked’ to store the outputs files.
 
-![Image 2](https://github.com/mullinslabUCSF/edge-kymograph/blob/master/images/image_2.png?raw=true)
+![Image 2](https://github.com/mullinslabUCSF/edge-kymograph/blob/master/images/image_2.jpg?raw=true)
 
 3. Set the parameter values (blur, threshold, ch1_maxintensity, ch2_maxintensity) in path_param. These values will differ depending on the fluorophore, levels of protein expression, etc and should be checked for each cell that is analyzed. 
 
