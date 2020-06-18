@@ -35,7 +35,7 @@ Example input below is a two-color fluorescent image of leading-edge proteins VA
 
 Example outputs below are (1) overlaid traces of the cell edge perimeter region of interest color coded by time frame and (2) adaptive kymographs of protein cluster dynamics of  both VASP and Lp channels.
 
- ![image alt text](image_1.jpg)
+![Image 1](https://github.com/mullinslabUCSF/edge-kymograph/blob/master/images/image_1.jpg?raw=true)
 
 The data set corresponding to this example is available in the folders ‘ch1_VASP’ and ‘ch2_LPD’.
 
@@ -45,7 +45,7 @@ The data set corresponding to this example is available in the folders ‘ch1_VA
 
 2. Create new folders in the same directory called ‘results’ and ‘masked’ to store the outputs files.
 
-![image alt text](image_2.png)
+![Image 2](https://github.com/mullinslabUCSF/edge-kymograph/blob/master/images/image_2.png?raw=true)
 
 3. Set the parameter values (blur, threshold, ch1_maxintensity, ch2_maxintensity) in path_param. These values will differ depending on the fluorophore, levels of protein expression, etc and should be checked for each cell that is analyzed. 
 
@@ -57,8 +57,8 @@ The data set corresponding to this example is available in the folders ‘ch1_VA
 
 5. An interactive figure will pop up with the overlaid boundary lines of the cell. To help the function determine the region of interest, click on the inside and outside of the (1) start point (2) end point (3) midpoint of the boundary lines. Then click twice outside of the cell to make a small square (4) for background subtraction for photobleaching calculations. 
 
-![image alt text](image_3.jpg)
+![Image 3](https://github.com/mullinslabUCSF/edge-kymograph/blob/master/images/image_3.jpg?raw=true)
 
 6. Once the dynamic region of interest is selected with input from the user, droid5 runs and outputs the following figures and saves the kymograph information to the results directory. 
 
-![image alt text](image_4.jpg)
+![Image 4](https://github.com/mullinslabUCSF/edge-kymograph/blob/master/images/image_4.jpg?raw=true)
