@@ -31,7 +31,7 @@ We originally developed Droid5 to analyze the initiation and disassembly dynamic
 
 Example input below is a two-color fluorescent image of leading-edge proteins VASP (left, green) and Lpd (right, magenta) from a time-lapse movie. 
 
-![image alt text](image_0.jpg)
+![Image 0](https://github.com/mullinslabUCSF/edge-kymograph/blob/master/images/image_0.jpg?raw=true)
 
 Example outputs below are (1) overlaid traces of the cell edge perimeter region of interest color coded by time frame and (2) adaptive kymographs of protein cluster dynamics of  both VASP and Lp channels.
 
