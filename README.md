@@ -1,7 +1,11 @@
 Initiation and disassembly of filopodia tip complexes containing VASP and lamellipodin
+
 Karen W. Cheng, R. Dyche Mullins
+
 MBoC 2020
+
 https://doi.org/10.1091/mbc.E20-04-0270
+
 
 # edge-kymograph
 Matlab code for tracking edge of cell and extracting kymographs
