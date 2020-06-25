@@ -1,8 +1,8 @@
-Cite:
-**Initiation and disassembly of filopodia tip complexes containing VASP and lamellipodin**
+__**Initiation and disassembly of filopodia tip complexes containing VASP and lamellipodin**__
+
 Karen W. Cheng, R. Dyche Mullins
-MBoC 2020
-https://doi.org/10.1091/mbc.E20-04-0270
+
+MBoC 2020 https://doi.org/10.1091/mbc.E20-04-0270
 
 
 # edge-kymograph
