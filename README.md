@@ -1,4 +1,5 @@
-__**Initiation and disassembly of filopodia tip complexes containing VASP and lamellipodin**__
+# Cite
+**Initiation and disassembly of filopodia tip complexes containing VASP and lamellipodin**
 
 Karen W. Cheng, R. Dyche Mullins
 
